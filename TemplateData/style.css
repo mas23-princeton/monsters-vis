@@ -66,6 +66,20 @@ p > a {
     margin: auto;
 }
 
+.info {
+    width:55%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.sm-info {
+    width:55%;
+    text-align: center;
+    padding-top: 15px;
+    font-size: small;
+    color:gainsboro;
+}
+
 /* Create four equal columns that floats next to each other */
 .column {
     float: left;
@@ -125,10 +139,10 @@ p > a {
     display: none;
 }
 
-#spotify-logo {
+#monster-logo {
     width: 154px;
     height: 130px;
-    background: url("spotify-logo-dark.png") no-repeat center;
+    background: url("monster-logo-dark.png") no-repeat center;
 }
 #unity-progress-bar-empty {
     width: 141px;
